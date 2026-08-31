@@ -1,5 +1,1 @@
-apple
-mango
-durian
-banana
-grape
+vegtables are better than fruits
